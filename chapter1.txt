@@ -1,0 +1,6 @@
+AI can be applied in many different areas, such as econometrics, biometry, e-commerce, and the automotive industry. In recent years,
+AI has found its way into healthcare as well, helping doctors make better decisions (“clinical decision support”), localizing tumors in magnetic resonance images,
+reading and analyzing reports written by radiologists and pathologists, and much more. However, AI has one big risk: it can be perceived as a “black box”, 
+limiting trust in its reliability, which is a very big issue in an area in which a decision can mean life or death. As a result, the term Explainable Artificial 
+ Intelligence (XAI) has been gaining momentum. XAI tries to ensure that AI algorithms (and the resulting decisions) can be understood by humans.
+ 
